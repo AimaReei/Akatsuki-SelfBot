@@ -43,7 +43,7 @@ const console = "test"; //ton message personalisé dans la console
 > **Etape 4 : Lancer le selfbot**
 
 Lancer le selfbot est létape la plus simple a faire !
-Il faudra juste lancer le fichier start.bat est le tour est joué !
+Il faudra juste lancer le fichier main.exe est le tour est joué !
 
 ![ScreenShot](https://cdn.discordapp.com/attachments/823244844767117325/823325097343189022/unknown.png)
 
